@@ -1,3 +1,17 @@
+<p align="center">
+  <br>
+  <b>创造不息，交付不止</b>
+  <br>
+  <a href="https://www.yousails.com">
+    <img src="https://yousails.com/banners/brand.png" width=350>
+  </a>
+</p>
+
+![PHPHub-Android](http://ww4.sinaimg.cn/large/76dc7f1bgw1eyfw7ewb0nj20q808774z.jpg)
+
+[![Build Status](https://api.travis-ci.org/CycloneAxe/phphub-android.svg?branch=master)](https://travis-ci.org/CycloneAxe/phphub-android)
+![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen.svg?style=flat)
+
 
 ## 相关项目
 
@@ -15,7 +29,7 @@
 
 ![](https://cloud.githubusercontent.com/assets/324764/10683969/448b0cda-797a-11e5-8f93-3e51ad7144df.png)
 
-[PHPHub Android APK 下载](http://fir.im/phphub)
+[PHPHub Android APK 下载](https://fir.im/phphub2a)
 
 ## 运行环境
 Min SDK verison 4.0+
@@ -81,6 +95,7 @@ Gradle version 2.4
 [android-iconify](https://github.com/JoanZapata/android-iconify) | 一个将 Aweome ICON 和 Android 结合起来的项目
 [Localify](https://github.com/polok/localify) | 从文件中加载内容的Android类库
 [PhotoDraweeView](https://github.com/ongakuer/PhotoDraweeView) | 基于 Fresco 的图片缩放控件
+[Velodrome](https://github.com/Levelmoney/velodrome) | onActivityResult handlers for Android
 
 ## 参与贡献
 [晓晓鱼](https://github.com/xiaoxiaoyu)
